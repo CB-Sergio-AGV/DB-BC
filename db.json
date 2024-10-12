@@ -5,28 +5,33 @@
       "title": "Visualización de User Stories en el Timeline",
       "description": "Como Scrum Master, quiero visualizar las User Stories en el timeline, para seguir el progreso del equipo y gestionar mejor las tareas.",
       "owner": "Scrum Master",
-      "status": "In Progress"
+      "status": "In Progress",
+      "sprint": 1
     },
     {
       "id": 2,
       "title": "Adición de una columna para un nuevo sprint en el Timeline",
       "description": "Como Product Owner, quiero agregar columnas para nuevos sprints en el timeline, para organizar mejor las User Stories por períodos de tiempo.",
       "owner": "Product Owner",
-      "status": "Complete"
+      "status": "Complete",
+      "sprint": 1
     },
     {
       "id": 3,
       "title": "Estimación de Esfuerzo en User Stories",
       "description": "Como Desarrollador, quiero ver la estimación de esfuerzo asociada a cada User Story, para gestionar mejor el tiempo y recursos del equipo.",
       "owner": "Developer",
-      "status": "In Progress"
+      "status": "In Progress",
+      "sprint": 2
     },
     {
       "id": 4,
       "title": "Visualización de Estadísticas del Rendimiento del Equipo",
       "description": "Como Product Owner, quiero visualizar estadísticas del rendimiento del equipo, para evaluar el progreso de las User Stories y tomar decisiones informadas sobre la gestión del proyecto.",
       "owner": "Product Owner",
-      "status": "Complete"
+      "status": "Complete",
+      "sprint": 2
     }
+    // Add more user stories as needed for Sprints 3 and 4
   ]
 }
