@@ -1,37 +1,32 @@
 {
-  "book": [
+  "userStories": [
     {
-      "id": "1",
-      "autor": "Gabriel García Márquez",
-      "titulo": "Cien años de soledad",
-      "descripcion": "Una de las obras más representativas del realismo mágico, escrita por el ganador del Premio Nobel Gabriel García Márquez. La novela narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo, un lugar donde lo extraordinario y lo sobrenatural conviven con la vida cotidiana.",
-      "resumen": "Cien años de soledad sigue la vida de los Buendía, desde su fundador José Arcadio Buendía, hasta su última generación. La novela retrata temas como el amor, la soledad, la fatalidad, la historia cíclica y el poder del destino.",
-      "fecha_publicacion": "1967-06-05",
-      "isbn": "978-0307474728",
-      "formato": "Tapa blanda",
-      "precio": 0.00,
-      "categoria": "Realismo mágico",
-      "ruta_archivo": "https://www.sev.gob.mx/clasesdesdecasa/documentos/c8cf01c83fcd163f06e727cabcff90ac100-a%C3%B1os-de-soledad-Gabriel-Garc%C3%ADa-Marquez.pdf",
-      "portada": "https://images.cdn3.buscalibre.com/fit-in/360x360/61/8d/618d227e8967274cd9589a549adff52d.jpg",
-      "pagado": false,
-      "comments": [
-        {
-          "id": 1,
-          "username": "Juan Pérez",
-          "content": "Una obra magnífica que mezcla la magia y la realidad de manera impecable. Me encantó cada detalle de la familia Buendía.",
-          "rating": 5,
-          "date": "2023-09-19 10:30 AM"
-        },
-        {
-          "id": 2,
-          "username": "Laura García",
-          "content": "El estilo de narración es envolvente, pero en algunos momentos puede volverse un poco denso. Aún así, lo recomiendo.",
-          "rating": 4,
-          "date": "2023-09-18 04:45 PM"
-        }
-      ]
+      "id": 1,
+      "title": "Visualización de User Stories en el Timeline",
+      "description": "Como Scrum Master, quiero visualizar las User Stories en el timeline, para seguir el progreso del equipo y gestionar mejor las tareas.",
+      "owner": "Scrum Master",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "title": "Adición de una columna para un nuevo sprint en el Timeline",
+      "description": "Como Product Owner, quiero agregar columnas para nuevos sprints en el timeline, para organizar mejor las User Stories por períodos de tiempo.",
+      "owner": "Product Owner",
+      "status": "Complete"
+    },
+    {
+      "id": 3,
+      "title": "Estimación de Esfuerzo en User Stories",
+      "description": "Como Desarrollador, quiero ver la estimación de esfuerzo asociada a cada User Story, para gestionar mejor el tiempo y recursos del equipo.",
+      "owner": "Developer",
+      "status": "In Progress"
+    },
+    {
+      "id": 4,
+      "title": "Visualización de Estadísticas del Rendimiento del Equipo",
+      "description": "Como Product Owner, quiero visualizar estadísticas del rendimiento del equipo, para evaluar el progreso de las User Stories y tomar decisiones informadas sobre la gestión del proyecto.",
+      "owner": "Product Owner",
+      "status": "Complete"
     }
-   
-
   ]
 }
