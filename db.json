@@ -31,6 +31,30 @@
       "owner": "Product Owner",
       "status": "Complete",
       "sprint": 2
+    },
+    {
+      "id": 5,
+      "title": "Integración de un sistema de notificaciones",
+      "description": "Como Desarrollador, quiero integrar un sistema de notificaciones para informar a los usuarios sobre cambios en las User Stories.",
+      "owner": "Developer",
+      "status": "Complete",
+      "sprint": 2
+    },
+    {
+      "id": 6,
+      "title": "Optimización del rendimiento de la aplicación",
+      "description": "Como Product Owner, quiero optimizar el rendimiento de la aplicación para mejorar la experiencia del usuario.",
+      "owner": "Product Owner",
+      "status": "In Progress",
+      "sprint": 3
+    },
+    {
+      "id": 7,
+      "title": "Implementación de la funcionalidad de búsqueda",
+      "description": "Como Scrum Master, quiero implementar la funcionalidad de búsqueda para que los usuarios encuentren rápidamente las User Stories.",
+      "owner": "Scrum Master",
+      "status": "Complete",
+      "sprint": 3
     }
   ]
 }
