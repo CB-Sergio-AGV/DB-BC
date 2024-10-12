@@ -55,6 +55,30 @@
       "owner": "Scrum Master",
       "status": "Complete",
       "sprint": 3
+    },
+    {
+      "id": 8,
+      "title": "Creación de una interfaz de usuario amigable",
+      "description": "Como Desarrollador, quiero crear una interfaz de usuario amigable para mejorar la experiencia del usuario.",
+      "owner": "Developer",
+      "status": "In Progress",
+      "sprint": 4
+    },
+    {
+      "id": 9,
+      "title": "Implementación de la funcionalidad de arrastrar y soltar",
+      "description": "Como Product Owner, quiero implementar la funcionalidad de arrastrar y soltar para que los usuarios puedan organizar las User Stories fácilmente.",
+      "owner": "Product Owner",
+      "status": "Complete",
+      "sprint": 4
+    },
+    {
+      "id": 10,
+      "title": "Añadir soporte para múltiples idiomas",
+      "description": "Como Desarrollador, quiero añadir soporte para múltiples idiomas en la aplicación.",
+      "owner": "Developer",
+      "status": "In Progress",
+      "sprint": 4
     }
   ]
 }
