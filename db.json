@@ -6,7 +6,9 @@
       "description": "Como Scrum Master, quiero visualizar las User Stories en el timeline, para seguir el progreso del equipo y gestionar mejor las tareas.",
       "owner": "Scrum Master",
       "status": "To do",
-      "sprint": 1
+      "sprint": 1,
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-05"
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "description": "Como Product Owner, quiero agregar columnas para nuevos sprints en el timeline, para organizar mejor las User Stories por períodos de tiempo.",
       "owner": "Product Owner",
       "status": "Complete",
-      "sprint": 1
+      "sprint": 1,
+      "startDate": "2024-10-06",
+      "endDate": "2024-10-10"
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "description": "Como Desarrollador, quiero ver la estimación de esfuerzo asociada a cada User Story, para gestionar mejor el tiempo y recursos del equipo.",
       "owner": "Developer",
       "status": "To do",
-      "sprint": 2
+      "sprint": 2,
+      "startDate": "2024-10-11",
+      "endDate": "2024-10-15"
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "description": "Como Product Owner, quiero visualizar estadísticas del rendimiento del equipo, para evaluar el progreso de las User Stories y tomar decisiones informadas sobre la gestión del proyecto.",
       "owner": "Product Owner",
       "status": "Complete",
-      "sprint": 2
+      "sprint": 2,
+      "startDate": "2024-10-16",
+      "endDate": "2024-10-20"
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "description": "Como Desarrollador, quiero integrar un sistema de notificaciones para informar a los usuarios sobre cambios en las User Stories.",
       "owner": "Developer",
       "status": "Complete",
-      "sprint": 2
+      "sprint": 2,
+      "startDate": "2024-10-21",
+      "endDate": "2024-10-25"
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "description": "Como Product Owner, quiero optimizar el rendimiento de la aplicación para mejorar la experiencia del usuario.",
       "owner": "Product Owner",
       "status": "To do",
-      "sprint": 3
+      "sprint": 3,
+      "startDate": "2024-10-26",
+      "endDate": "2024-10-30"
     },
     {
       "id": 7,
@@ -54,7 +66,9 @@
       "description": "Como Scrum Master, quiero implementar la funcionalidad de búsqueda para que los usuarios encuentren rápidamente las User Stories.",
       "owner": "Scrum Master",
       "status": "Complete",
-      "sprint": 3
+      "sprint": 3,
+      "startDate": "2024-10-31",
+      "endDate": "2024-11-05"
     },
     {
       "id": 8,
@@ -62,7 +76,9 @@
       "description": "Como Desarrollador, quiero crear una interfaz de usuario amigable para mejorar la experiencia del usuario.",
       "owner": "Developer",
       "status": "To do",
-      "sprint": 4
+      "sprint": 4,
+      "startDate": "2024-11-06",
+      "endDate": "2024-11-10"
     },
     {
       "id": 9,
@@ -70,7 +86,9 @@
       "description": "Como Product Owner, quiero implementar la funcionalidad de arrastrar y soltar para que los usuarios puedan organizar las User Stories fácilmente.",
       "owner": "Product Owner",
       "status": "Complete",
-      "sprint": 4
+      "sprint": 4,
+      "startDate": "2024-11-11",
+      "endDate": "2024-11-15"
     },
     {
       "id": 10,
@@ -78,7 +96,9 @@
       "description": "Como Desarrollador, quiero añadir soporte para múltiples idiomas en la aplicación.",
       "owner": "Developer",
       "status": "To do",
-      "sprint": 4
+      "sprint": 4,
+      "startDate": "2024-11-16",
+      "endDate": "2024-11-20"
     }
   ],
   "members": [
