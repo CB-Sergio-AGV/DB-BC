@@ -5,7 +5,7 @@
       "title": "Visualización de User Stories en el Timeline",
       "description": "Como Scrum Master, quiero visualizar las User Stories en el timeline, para seguir el progreso del equipo y gestionar mejor las tareas.",
       "owner": "Scrum Master",
-      "status": "In Progress",
+      "status": "To do",
       "sprint": 1
     },
     {
@@ -21,7 +21,7 @@
       "title": "Estimación de Esfuerzo en User Stories",
       "description": "Como Desarrollador, quiero ver la estimación de esfuerzo asociada a cada User Story, para gestionar mejor el tiempo y recursos del equipo.",
       "owner": "Developer",
-      "status": "In Progress",
+      "status": "To do",
       "sprint": 2
     },
     {
@@ -45,7 +45,7 @@
       "title": "Optimización del rendimiento de la aplicación",
       "description": "Como Product Owner, quiero optimizar el rendimiento de la aplicación para mejorar la experiencia del usuario.",
       "owner": "Product Owner",
-      "status": "In Progress",
+      "status": "To do",
       "sprint": 3
     },
     {
@@ -61,7 +61,7 @@
       "title": "Creación de una interfaz de usuario amigable",
       "description": "Como Desarrollador, quiero crear una interfaz de usuario amigable para mejorar la experiencia del usuario.",
       "owner": "Developer",
-      "status": "In Progress",
+      "status": "To do",
       "sprint": 4
     },
     {
@@ -77,7 +77,7 @@
       "title": "Añadir soporte para múltiples idiomas",
       "description": "Como Desarrollador, quiero añadir soporte para múltiples idiomas en la aplicación.",
       "owner": "Developer",
-      "status": "In Progress",
+      "status": "To do",
       "sprint": 4
     }
   ],
