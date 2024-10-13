@@ -8,7 +8,7 @@
       "status": "To do",
       "sprint": 1,
       "startDate": "2024-10-01",
-      "endDate": "2024-10-05",
+      "endDate": "2024-10-02",
       "effort": 5
     },
     {
@@ -19,7 +19,7 @@
       "status": "Complete",
       "sprint": 1,
       "startDate": "2024-10-06",
-      "endDate": "2024-10-10",
+      "endDate": "2024-10-07",
       "effort": 3
     },
     {
