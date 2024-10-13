@@ -8,7 +8,8 @@
       "status": "To do",
       "sprint": 1,
       "startDate": "2024-10-01",
-      "endDate": "2024-10-05"
+      "endDate": "2024-10-05",
+      "effort": 5
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "status": "Complete",
       "sprint": 1,
       "startDate": "2024-10-06",
-      "endDate": "2024-10-10"
+      "endDate": "2024-10-10",
+      "effort": 3
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "status": "To do",
       "sprint": 2,
       "startDate": "2024-10-11",
-      "endDate": "2024-10-15"
+      "endDate": "2024-10-15",
+      "effort": 4
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "status": "Complete",
       "sprint": 2,
       "startDate": "2024-10-16",
-      "endDate": "2024-10-20"
+      "endDate": "2024-10-20",
+      "effort": 6
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "status": "Complete",
       "sprint": 2,
       "startDate": "2024-10-21",
-      "endDate": "2024-10-25"
+      "endDate": "2024-10-25",
+      "effort": 5
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "status": "To do",
       "sprint": 3,
       "startDate": "2024-10-26",
-      "endDate": "2024-10-30"
+      "endDate": "2024-10-30",
+      "effort": 7
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "status": "Complete",
       "sprint": 3,
       "startDate": "2024-10-31",
-      "endDate": "2024-11-05"
+      "endDate": "2024-11-05",
+      "effort": 4
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "status": "To do",
       "sprint": 4,
       "startDate": "2024-11-06",
-      "endDate": "2024-11-10"
+      "endDate": "2024-11-10",
+      "effort": 6
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "status": "Complete",
       "sprint": 4,
       "startDate": "2024-11-11",
-      "endDate": "2024-11-15"
+      "endDate": "2024-11-15",
+      "effort": 5
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "status": "To do",
       "sprint": 4,
       "startDate": "2024-11-16",
-      "endDate": "2024-11-20"
+      "endDate": "2024-11-20",
+      "effort": 3
     }
   ],
   "members": [
