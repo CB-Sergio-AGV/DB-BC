@@ -1,0 +1,34 @@
+te dare la estructura de mi bounded context y raiz de mi bd para q podamos hacer las estadisticas y time line ok? EL BOUNDED CONTEXT ES STADISTICS
+en la raiz del proyecto de angular las carpetas son public, server y src las principales , en public esta assets q contiene una carpeta llamada i18n donde tiene 2 archivos , es.json y en.json.
+en server hay 2 archivos , db.json y routes.json 
+luego esta el src donde tiene como archivos idex.html, main.ts, styles.css y 2 carpetas imporantes donde son app y environments, EN  environments hay 2 archivos environments.development.ts  y environments.ts que mazomenos estara asi : 
+export const environment = {
+  production: true,
+    serverBasePath: "url del db.json en github", 
+
+};
+ok en app estan los archivos defaults de angular app.component.css , html, ts etc ok , y luego estan 3 carpetas public, shared  y statistic, en public esta la carpeta pages donde esta language-switcher una carpeta q tendra component , y page-not-found otro tipico componetn. hrml css ts 
+en la carpeta shared esta la carpeta services  donde esta el archivo base-service.ts 
+en la carpeta stadistics esta  , carpeta components, carpeta model, carpeta pages y carpeta services 
+en public donde esta la carpeta pages y donde esta laguage-switcher fue elimimnaa la carpeta language , en la carpeta public se creo una carpeta components donde esta la carpeta language-switcher donde estan los archivos language-swotcher.css , html y ts
+para el serverjson usaremos este link 	 para poder entrar a la base de datos lo cual nos ayudara aun no hay nada luego se hace eso
+
+
+
+ npm install chart.js
+npm install ng-apexcharts apexcharts --save  
+npm install @types/apexcharts --save-dev  
+npm install apexcharts ng-apexcharts   
+npm install rxjs
+npm install moment
+npm install @types/moment --save-dev
+npm install @angular/cdk
+npm install bootstrap @ng-bootstrap/ng-bootstrap
+npm install ng-apexcharts moment
+npm install --save apexcharts ng-apexcharts
+npm install ng-apexcharts --save
+npm install --save ng-apexcharts apexcharts
+npm install ng-apexcharts
+
+  "node_modules/@angular/localize/init.js"
+
