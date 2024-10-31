@@ -113,10 +113,12 @@
   ],
   "members": [
     {
-      "id": 1,
-      "name": "Juan Pérez",
-      "role": "Desarrollador",
-      "status": "Activo"
+    "id": 1,
+    "name": "Juan Pérez",
+    "role": {
+      "name": "Developer Team",
+      "description": "A cross-functional group that collaborates to deliver product increments, self-organizing and responsible for quality and estimates."
+    }
     },
     {
       "id": 2,
