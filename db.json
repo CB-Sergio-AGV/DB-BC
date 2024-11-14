@@ -7,8 +7,6 @@
       "owner": "Scrum Master",
       "status": "Complete",
       "sprint": 1,
-      "startDate": "2024-10-01",
-      "endDate": "2024-10-02",
       "effort": 5
     },
     {
@@ -18,8 +16,6 @@
       "owner": "Product Owner",
       "status": "To do",
       "sprint": 1,
-      "startDate": "2024-10-06",
-      "endDate": "2024-10-07",
       "effort": 3
     },
     {
@@ -29,8 +25,6 @@
       "owner": "Developer",
       "status": "To do",
       "sprint": 2,
-      "startDate": "2024-10-11",
-      "endDate": "2024-10-15",
       "effort": 4
     },
     {
@@ -40,8 +34,6 @@
       "owner": "Product Owner",
       "status": "Complete",
       "sprint": 2,
-      "startDate": "2024-10-16",
-      "endDate": "2024-10-20",
       "effort": 6
     },
     {
@@ -51,8 +43,6 @@
       "owner": "Developer",
       "status": "Complete",
       "sprint": 2,
-      "startDate": "2024-10-21",
-      "endDate": "2024-10-25",
       "effort": 5
     },
     {
@@ -62,8 +52,6 @@
       "owner": "Product Owner",
       "status": "To do",
       "sprint": 3,
-      "startDate": "2024-10-26",
-      "endDate": "2024-10-30",
       "effort": 7
     },
     {
@@ -73,8 +61,6 @@
       "owner": "Scrum Master",
       "status": "Complete",
       "sprint": 3,
-      "startDate": "2024-10-31",
-      "endDate": "2024-11-05",
       "effort": 4
     },
     {
@@ -84,8 +70,6 @@
       "owner": "Developer",
       "status": "To do",
       "sprint": 4,
-      "startDate": "2024-11-06",
-      "endDate": "2024-11-10",
       "effort": 6
     },
     {
@@ -95,8 +79,6 @@
       "owner": "Product Owner",
       "status": "Complete",
       "sprint": 4,
-      "startDate": "2024-11-11",
-      "endDate": "2024-11-15",
       "effort": 5
     },
     {
@@ -106,49 +88,39 @@
       "owner": "Developer",
       "status": "To do",
       "sprint": 4,
-      "startDate": "2024-11-16",
-      "endDate": "2024-11-20",
       "effort": 3
     }
   ],
-  "members": [
+  "sprints": [
     {
-    "id": 1,
-    "name": "Juan Pérez",
-    "role": {
-      "name": "Developer Team",
-      "description": "A cross-functional group that collaborates to deliver product increments, self-organizing and responsible for quality and estimates."
-    }
+      "id": 1,
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-02",
+      "userStories": [1, 2]
     },
     {
       "id": 2,
-      "name": "María Gómez",
-      "role": "Scrum Master",
-      "status": "Activo"
+      "startDate": "2024-10-06",
+      "endDate": "2024-10-07",
+      "userStories": [3, 4, 5]
     },
     {
       "id": 3,
-      "name": "Ana Martínez",
-      "role": "Product Owner",
-      "status": "Inactivo"
+      "startDate": "2024-10-11",
+      "endDate": "2024-10-15",
+      "userStories": [6, 7]
     },
     {
       "id": 4,
-      "name": "Luis Rodríguez",
-      "role": "Tester",
-      "status": "Activo"
+      "startDate": "2024-10-21",
+      "endDate": "2024-10-25",
+      "userStories": [8, 9]
     },
     {
       "id": 5,
-      "name": "Laura Fernández",
-      "role": "Desarrollador",
-      "status": "Activo"
-    },
-    {
-      "id": 6,
-      "name": "Carlos Ramírez",
-      "role": "Desarrollador",
-      "status": "Activo"
+      "startDate": "2024-10-26",
+      "endDate": "2024-10-30",
+      "userStories": [10]
     }
   ]
 }
